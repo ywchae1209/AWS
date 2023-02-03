@@ -27,10 +27,17 @@
 ### 1.2 What can you do with AWS ?
 
 - some examples
-  > Hostuing a web shop (Fig 1-1)
-  > Running a J2EE application in private network (Fig 1-2)
-  > Implementing a highly available system( Fig 1-3)
-  > Profiting from low costs for batch processing infrastructure (Fig 1-4)
+  > * Hostuing a web shop (Fig 1-1)  
+  > ![Fig 1-1](./Images/1-1.jpg)  
+  > 
+  > * Running a J2EE application in private network (Fig 1-2)  
+  > ![Fig 1-2](./Images/1-2.jpg)   
+  > 
+  > * Implementing a highly available system( Fig 1-3)
+  > ![Fig 1-3](./Images/1-3.jpg)  
+  > 
+  > * Profiting from low costs for batch processing infrastructure (Fig 1-4) 
+  > ![Fig 1-4](./Images/1-4.jpg)  
   >
   > > price model (pay-per-use :: per-minute, spare capacity )
 
@@ -40,7 +47,7 @@
 
   > cost-saving  
   > Innovative and fast-growing platform
-  >
+  
   > > https:// awa.amazon.com/about=aws/whats-new/
   >
   > Services solve common problems
@@ -61,6 +68,10 @@
 ### 1.4 How much does it const ?
 
 > http://aws.amazon.com/calculator ( AWS Simple Monthly Calculator : monthly cost of a planned setup)
+
+  > ![Fig 1-5](./Images/1-5.jpg)  
+  > ![Fig 1-5-tbl](./Images/1-5-tbl.jpg)  
+
 
 - Free Tier http://aws.amazon.com/free
 
@@ -86,11 +97,17 @@ GCP( Google Cloud Platform), Microsoft Azure
 
 ### 1.6 Exploring AWS services
 
-> Fig 1-6, 1-7, 1-8
+> Fig 1-6, 1-7, 1-8  
+> 
+> ![Fig 1-6](./Images/1-6.jpg)   
+> ![Fig 1-7](./Images/1-7.jpg)  
+> ![Fig 1-8](./Images/1-8.jpg)  
 
 - AWS Services
 
-  > service category (Fig 1-9)
+> service category (Fig 1-9)  
+> ![Fig 1-9](./Images/1-9.jpg)    
+
 
 - Services book covers
   > EC2 :: Virtual Machine  
@@ -113,13 +130,18 @@ GCP( Google Cloud Platform), Microsoft Azure
 
 ### 1.7 Interacting with AWS
 
-> Fig 1-10
+> Fig 1-10  
+> > ![Fig 1-10](./Images/1-10.jpg)    
+
 
 - interacting
   > Management Console (Fig 1-11)
+  > > ![Fig 1-11](./Images/1-11.jpg)    
   > CLI ( Fig 1-12 )
+  > > ![Fig 1-12](./Images/1-12.jpg)    
   > SDKs
   > BludPrints( Fig 1-13)
+  > > ![Fig 1-13](./Images/1-13.jpg)    
   >
   > > BluePrint : description of system containing all resouces and dependencies.
 
