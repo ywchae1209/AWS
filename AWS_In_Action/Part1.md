@@ -153,6 +153,9 @@ GCP( Google Cloud Platform), Microsoft Azure
 
 ## 2. A simple example :: WordPress in five minues
 
+> ![Fig 2-1](./Images/2-1.jpg)  
+
+
 ### 2.1 Creating a infra.
 
 ### 2.2 Exploring infra.
