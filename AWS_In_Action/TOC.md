@@ -54,3 +54,8 @@ Part 4. Architecting on AWS
 > 15. Decoupling your infrastructure : Elastic Load Balancing, Simple Queue Service
 > 16. Designing for fault tolerance
 > 17. Scaling up and down :: auto-scaling and CloudWatch
+
+\*\*
+out of scope
+
+> containers, big data, Machine learning
